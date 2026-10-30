@@ -1,0 +1,101 @@
+ad_id,release_date,topic_category,product,trigger_type,medium,creative_style,target_audience,response_time_hrs,impressions,likes,shares,comments,total_engagements,engagement_rate_pct,positive_sentiment_pct,brand_recall_score,month_name,month_no,mascot_present,tagline_present
+AMUL001,2025-01-08,Bollywood & Celebrity,Amul Butter,Breaking news,Outdoor hoarding,Caricature,Film fans,4.1,1640417,18982,4481,5146,28609,1.74,75.0,4.1,Jan,1,Yes,Yes
+AMUL002,2025-01-08,Global Events,Amul Butter,Breaking news,Outdoor hoarding,Caricature,News readers,3.4,675320,4141,1220,1073,6434,0.95,64.4,4.5,Jan,1,Yes,Yes
+AMUL003,2025-01-12,Food & Everyday Life,Amul Ghee,Evergreen,Print,Pun on product,Households,36.3,485583,2787,577,650,4014,0.83,73.3,4.6,Jan,1,Yes,Yes
+AMUL004,2025-01-19,Global Events,Amul Cheese,Breaking news,Print,Caricature,News readers,13.5,387152,2190,626,426,3242,0.84,69.5,4.0,Jan,1,Yes,Yes
+AMUL005,2025-01-23,Festivals & Seasons,Amul Lassi,Seasonal,Outdoor hoarding,Mascot reaction,Families,14.3,901105,6679,1787,1424,9890,1.1,75.4,4.8,Jan,1,Yes,Yes
+AMUL006,2025-01-25,Food & Everyday Life,Amul Butter,Evergreen,Outdoor hoarding,Rhyme,Households,78.7,808081,4833,1124,1731,7688,0.95,72.2,3.9,Jan,1,Yes,Yes
+AMUL007,2025-02-01,Union Budget & Economy,Amul Ice Cream,Scheduled event,Facebook,Rhyme,Working adults,8.8,367142,6378,1188,2531,10097,2.75,69.0,4.3,Feb,2,Yes,Yes
+AMUL008,2025-02-06,Global Events,Amul Butter,Breaking news,X / Twitter,Wordplay,News readers,23.9,223977,5849,1016,1856,8721,3.89,71.6,4.0,Feb,2,Yes,Yes
+AMUL009,2025-02-07,Global Events,Amul Cheese,Breaking news,Instagram,Caricature,News readers,26.4,461890,11863,3393,3426,18682,4.04,71.7,4.5,Feb,2,Yes,Yes
+AMUL010,2025-02-09,Bollywood & Celebrity,Amul Chocolate,Breaking news,Instagram,Pun on film title,Film fans,18.4,595682,20958,7239,3536,31733,5.33,75.8,4.2,Feb,2,Yes,Yes
+AMUL011,2025-02-11,Union Budget & Economy,Amul Butter,Scheduled event,Print,Wordplay,Working adults,4.7,739607,4763,1295,1082,7140,0.97,68.2,4.9,Feb,2,Yes,Yes
+AMUL012,2025-02-12,Union Budget & Economy,Amul Milk,Scheduled event,X / Twitter,Rhyme,Working adults,2.5,368409,10749,2008,4539,17296,4.7,64.8,3.5,Feb,2,Yes,Yes
+AMUL013,2025-02-14,Food & Everyday Life,Amul Milk,Evergreen,Instagram,Rhyme,Households,49.0,724817,23965,3398,6050,33413,4.61,73.6,4.0,Feb,2,Yes,Yes
+AMUL014,2025-02-23,Union Budget & Economy,Amul Butter,Scheduled event,X / Twitter,Rhyme,Working adults,10.9,491646,11438,1899,4829,18166,3.7,61.3,4.6,Feb,2,Yes,Yes
+AMUL015,2025-02-25,Union Budget & Economy,Amul Cheese,Scheduled event,Outdoor hoarding,Rhyme,Working adults,8.4,540541,3330,901,889,5120,0.95,65.2,4.9,Feb,2,Yes,Yes
+AMUL016,2025-02-28,Science & Space,Amul Butter,Breaking news,Facebook,Wordplay,Students,15.8,398108,6022,1160,1521,8703,2.19,62.2,3.8,Feb,2,Yes,Yes
+AMUL017,2025-03-04,Sports & Cricket,Amul Butter,Scheduled event,Instagram,Wordplay,Sports fans,11.1,789988,30617,7863,6786,45266,5.73,73.4,3.4,Mar,3,Yes,Yes
+AMUL018,2025-03-06,Festivals & Seasons,Amul Lassi,Seasonal,Outdoor hoarding,Rhyme,Families,37.3,954843,6044,1321,1806,9171,0.96,74.6,4.4,Mar,3,Yes,Yes
+AMUL019,2025-03-18,Sports & Cricket,Amul Chocolate,Scheduled event,X / Twitter,Wordplay,Sports fans,3.3,553455,21276,3732,4940,29948,5.41,82.8,3.9,Mar,3,Yes,Yes
+AMUL020,2025-03-21,Sports & Cricket,Amul Butter,Scheduled event,Instagram,Mascot reaction,Sports fans,8.9,369558,14471,3643,3624,21738,5.88,86.5,4.5,Mar,3,Yes,Yes
+AMUL021,2025-03-22,Sports & Cricket,Amul Ice Cream,Scheduled event,X / Twitter,Wordplay,Sports fans,8.0,497616,16351,4019,4601,24971,5.02,73.0,4.0,Mar,3,Yes,Yes
+AMUL022,2025-03-27,Global Events,Amul Butter,Breaking news,Print,Wordplay,News readers,17.1,679387,3171,785,1144,5100,0.75,72.3,4.2,Mar,3,Yes,Yes
+AMUL023,2025-03-28,Festivals & Seasons,Amul Cheese,Seasonal,Outdoor hoarding,Rhyme,Families,21.5,1226513,7171,2084,1833,11088,0.9,78.3,3.7,Mar,3,Yes,Yes
+AMUL024,2025-04-10,Global Events,Amul Lassi,Breaking news,X / Twitter,Wordplay,News readers,6.6,627237,15081,2451,4929,22461,3.58,63.3,3.9,Apr,4,Yes,Yes
+AMUL025,2025-04-10,Sports & Cricket,Amul Butter,Scheduled event,X / Twitter,Wordplay,Sports fans,9.0,368814,11825,3389,1788,17002,4.61,76.3,4.0,Apr,4,Yes,Yes
+AMUL026,2025-04-11,Sports & Cricket,Amul Butter,Scheduled event,Instagram,Wordplay,Sports fans,5.0,1034335,41916,11768,10920,64604,6.25,71.6,4.2,Apr,4,Yes,Yes
+AMUL027,2025-04-18,Science & Space,Amul Lassi,Breaking news,Facebook,Caricature,Students,19.6,248397,4477,1104,802,6383,2.57,78.7,4.0,Apr,4,Yes,Yes
+AMUL028,2025-04-18,Food & Everyday Life,Amul Ice Cream,Evergreen,X / Twitter,Rhyme,Households,28.4,426323,11939,2297,3154,17390,4.08,74.9,4.8,Apr,4,Yes,Yes
+AMUL029,2025-04-19,Science & Space,Amul Cheese,Breaking news,Outdoor hoarding,Caricature,Students,24.5,881354,6224,1224,1364,8812,1.0,72.6,3.8,Apr,4,Yes,Yes
+AMUL030,2025-04-19,Sports & Cricket,Amul Butter,Scheduled event,X / Twitter,Wordplay,Sports fans,2.5,497144,21376,5053,4749,31178,6.27,79.2,4.2,Apr,4,Yes,Yes
+AMUL031,2025-04-20,Bollywood & Celebrity,Amul Lassi,Breaking news,Instagram,Pun on film title,Film fans,28.2,346836,14740,5670,2918,23328,6.73,76.7,4.1,Apr,4,Yes,Yes
+AMUL032,2025-05-04,Sports & Cricket,Amul Butter,Scheduled event,Print,Wordplay,Sports fans,3.0,1102395,9462,2861,2553,14876,1.35,76.7,4.5,May,5,Yes,Yes
+AMUL033,2025-05-10,Sports & Cricket,Amul Chocolate,Scheduled event,X / Twitter,Wordplay,Sports fans,5.1,536754,17871,4899,2695,25465,4.74,81.4,3.4,May,5,Yes,Yes
+AMUL034,2025-05-10,Bollywood & Celebrity,Amul Butter,Breaking news,Facebook,Pun on film title,Film fans,27.2,397258,8947,2061,2874,13882,3.49,75.0,3.9,May,5,Yes,Yes
+AMUL035,2025-05-10,Sports & Cricket,Amul Milk,Scheduled event,Instagram,Wordplay,Sports fans,8.2,1002501,38376,11473,10806,60655,6.05,69.9,4.6,May,5,Yes,Yes
+AMUL036,2025-05-14,Sports & Cricket,Amul Ghee,Scheduled event,X / Twitter,Mascot reaction,Sports fans,3.5,862411,32004,7044,5725,44773,5.19,81.9,4.3,May,5,Yes,Yes
+AMUL037,2025-05-16,Sports & Cricket,Amul Butter,Scheduled event,X / Twitter,Mascot reaction,Sports fans,2.9,953882,33706,6690,7306,47702,5.0,81.7,4.2,May,5,Yes,Yes
+AMUL038,2025-05-20,Bollywood & Celebrity,Amul Milk,Breaking news,Instagram,Pun on film title,Film fans,14.4,523659,20183,3758,4241,28182,5.38,75.2,4.2,May,5,Yes,Yes
+AMUL039,2025-05-21,Bollywood & Celebrity,Amul Butter,Breaking news,Print,Pun on film title,Film fans,2.9,728105,5629,1914,1275,8818,1.21,77.0,4.3,May,5,Yes,Yes
+AMUL040,2025-05-22,Sports & Cricket,Amul Butter,Scheduled event,Instagram,Wordplay,Sports fans,8.0,593570,23077,7071,5892,36040,6.07,77.3,3.9,May,5,Yes,Yes
+AMUL041,2025-05-23,Sports & Cricket,Amul Ice Cream,Scheduled event,X / Twitter,Wordplay,Sports fans,9.8,519965,15731,3805,3688,23224,4.47,73.1,3.5,May,5,Yes,Yes
+AMUL042,2025-05-24,Sports & Cricket,Amul Butter,Scheduled event,Instagram,Mascot reaction,Sports fans,11.1,455720,18988,2870,4554,26412,5.8,78.2,3.8,May,5,Yes,Yes
+AMUL043,2025-05-24,Science & Space,Amul Butter,Breaking news,Outdoor hoarding,Wordplay,Students,4.9,1439786,9638,1654,2980,14272,0.99,73.4,4.4,May,5,Yes,Yes
+AMUL044,2025-05-25,Bollywood & Celebrity,Amul Milk,Breaking news,Instagram,Pun on film title,Film fans,28.5,618156,24684,5002,6164,35850,5.8,72.9,3.7,May,5,Yes,Yes
+AMUL045,2025-05-27,Social Awareness,Amul Butter,Breaking news,Facebook,Wordplay,Households,29.8,217456,3500,689,714,4903,2.26,62.1,4.5,May,5,Yes,Yes
+AMUL046,2025-06-03,Sports & Cricket,Amul Butter,Scheduled event,X / Twitter,Wordplay,Sports fans,2.1,831989,34563,7673,8290,50526,6.07,78.6,4.1,Jun,6,Yes,Yes
+AMUL047,2025-06-14,Food & Everyday Life,Amul Butter,Evergreen,Facebook,Rhyme,Households,41.9,380680,5727,1459,1994,9180,2.41,76.7,4.6,Jun,6,Yes,Yes
+AMUL048,2025-07-03,Food & Everyday Life,Amul Lassi,Evergreen,Instagram,Pun on product,Households,81.8,416398,10905,2397,2776,16078,3.86,70.1,5.0,Jul,7,Yes,Yes
+AMUL049,2025-07-08,Bollywood & Celebrity,Amul Lassi,Breaking news,Instagram,Caricature,Film fans,16.5,423081,14207,4809,1417,20433,4.83,79.3,3.9,Jul,7,Yes,Yes
+AMUL050,2025-07-11,Global Events,Amul Butter,Breaking news,Print,Wordplay,News readers,23.4,795381,4804,970,1653,7427,0.93,74.6,3.9,Jul,7,Yes,Yes
+AMUL051,2025-07-12,Bollywood & Celebrity,Amul Butter,Breaking news,Instagram,Pun on film title,Film fans,4.4,674697,34777,12341,1908,49026,7.27,77.7,4.2,Jul,7,Yes,Yes
+AMUL052,2025-07-15,Union Budget & Economy,Amul Butter,Scheduled event,Print,Rhyme,Working adults,7.4,568169,3675,838,1351,5864,1.03,71.2,4.6,Jul,7,Yes,Yes
+AMUL053,2025-07-25,Union Budget & Economy,Amul Butter,Scheduled event,X / Twitter,Wordplay,Working adults,9.0,433853,9585,2324,3393,15302,3.53,72.4,3.8,Jul,7,Yes,Yes
+AMUL054,2025-07-27,Social Awareness,Amul Ghee,Breaking news,Instagram,Wordplay,Households,3.9,702200,27646,7273,3582,38501,5.48,67.6,4.3,Jul,7,Yes,Yes
+AMUL055,2025-08-08,Science & Space,Amul Ice Cream,Breaking news,X / Twitter,Caricature,Students,28.7,360911,10545,2949,1328,14822,4.11,65.5,3.9,Aug,8,Yes,Yes
+AMUL056,2025-08-12,Global Events,Amul Lassi,Breaking news,Instagram,Wordplay,News readers,13.1,434207,12235,3418,3062,18715,4.31,71.8,3.5,Aug,8,Yes,Yes
+AMUL057,2025-08-16,Science & Space,Amul Butter,Breaking news,Print,Caricature,Students,14.3,895835,4555,862,1213,6630,0.74,62.0,4.0,Aug,8,Yes,Yes
+AMUL058,2025-08-17,Festivals & Seasons,Amul Cheese,Seasonal,X / Twitter,Mascot reaction,Families,25.7,229824,4967,1107,1884,7958,3.46,79.1,4.4,Aug,8,Yes,Yes
+AMUL059,2025-08-20,Bollywood & Celebrity,Amul Ice Cream,Breaking news,Instagram,Caricature,Film fans,10.2,601088,25949,6784,4883,37616,6.26,77.0,4.5,Aug,8,Yes,Yes
+AMUL060,2025-08-28,Festivals & Seasons,Amul Chocolate,Seasonal,Facebook,Rhyme,Families,47.3,297781,3984,1178,881,6043,2.03,69.5,4.2,Aug,8,Yes,Yes
+AMUL061,2025-09-07,Bollywood & Celebrity,Amul Cheese,Breaking news,Instagram,Pun on film title,Film fans,15.7,815092,31288,7957,6250,45495,5.58,83.5,4.0,Sep,9,Yes,Yes
+AMUL062,2025-09-10,Bollywood & Celebrity,Amul Chocolate,Breaking news,Instagram,Pun on film title,Film fans,14.3,837774,30570,12381,5330,48281,5.76,74.6,4.2,Sep,9,Yes,Yes
+AMUL063,2025-09-15,Festivals & Seasons,Amul Butter,Seasonal,Instagram,Mascot reaction,Families,12.4,682274,21214,4824,4575,30613,4.49,72.5,4.7,Sep,9,Yes,Yes
+AMUL064,2025-09-20,Festivals & Seasons,Amul Ice Cream,Seasonal,Facebook,Mascot reaction,Families,21.3,297855,5120,808,2090,8018,2.69,77.1,3.9,Sep,9,Yes,Yes
+AMUL065,2025-09-23,Global Events,Amul Milk,Breaking news,Print,Caricature,News readers,22.2,454714,2702,592,612,3906,0.86,84.2,4.7,Sep,9,Yes,Yes
+AMUL066,2025-09-25,Bollywood & Celebrity,Amul Butter,Breaking news,Instagram,Caricature,Film fans,26.1,514371,17491,4121,5418,27030,5.26,73.4,3.9,Sep,9,Yes,Yes
+AMUL067,2025-09-26,Social Awareness,Amul Cheese,Breaking news,X / Twitter,Mascot reaction,Households,29.2,286510,6784,1754,997,9535,3.33,73.7,4.8,Sep,9,Yes,Yes
+AMUL068,2025-10-01,Union Budget & Economy,Amul Ghee,Scheduled event,Print,Rhyme,Working adults,7.1,856515,4797,971,1748,7516,0.88,68.2,4.4,Oct,10,Yes,Yes
+AMUL069,2025-10-03,Food & Everyday Life,Amul Butter,Evergreen,Outdoor hoarding,Pun on product,Households,74.2,1258070,8250,1821,1934,12005,0.95,66.2,4.5,Oct,10,Yes,Yes
+AMUL070,2025-10-04,Union Budget & Economy,Amul Lassi,Scheduled event,Instagram,Wordplay,Working adults,6.1,688444,18329,4262,6550,29141,4.23,63.1,4.1,Oct,10,Yes,Yes
+AMUL071,2025-10-04,Festivals & Seasons,Amul Cheese,Seasonal,Outdoor hoarding,Rhyme,Families,39.1,835486,5880,1163,2150,9193,1.1,75.8,3.7,Oct,10,Yes,Yes
+AMUL072,2025-10-08,Festivals & Seasons,Amul Lassi,Seasonal,Instagram,Rhyme,Families,37.3,692558,20636,5812,3798,30246,4.37,77.5,4.1,Oct,10,Yes,Yes
+AMUL073,2025-10-09,Science & Space,Amul Butter,Breaking news,X / Twitter,Wordplay,Students,22.2,430434,10712,2611,3377,16700,3.88,76.4,4.2,Oct,10,Yes,Yes
+AMUL074,2025-10-10,Bollywood & Celebrity,Amul Butter,Breaking news,X / Twitter,Pun on film title,Film fans,16.6,516235,15718,5610,1123,22451,4.35,76.3,4.1,Oct,10,Yes,Yes
+AMUL075,2025-10-10,Festivals & Seasons,Amul Butter,Seasonal,Outdoor hoarding,Mascot reaction,Families,40.9,416651,2776,539,1013,4328,1.04,74.6,4.0,Oct,10,Yes,Yes
+AMUL076,2025-10-10,Global Events,Amul Chocolate,Breaking news,Print,Caricature,News readers,12.6,716422,3811,972,866,5649,0.79,71.7,4.5,Oct,10,Yes,Yes
+AMUL077,2025-10-13,Bollywood & Celebrity,Amul Butter,Breaking news,Instagram,Caricature,Film fans,28.6,312523,11774,2693,2673,17140,5.48,76.1,4.1,Oct,10,Yes,Yes
+AMUL078,2025-10-14,Festivals & Seasons,Amul Milk,Seasonal,Instagram,Mascot reaction,Families,13.5,249411,8923,1537,2035,12495,5.01,82.3,4.5,Oct,10,Yes,Yes
+AMUL079,2025-10-16,Sports & Cricket,Amul Chocolate,Scheduled event,X / Twitter,Wordplay,Sports fans,9.3,579180,18015,4166,2955,25136,4.34,73.5,4.3,Oct,10,Yes,Yes
+AMUL080,2025-10-16,Festivals & Seasons,Amul Butter,Seasonal,Facebook,Rhyme,Families,25.6,126925,1934,370,681,2985,2.35,79.0,4.7,Oct,10,Yes,Yes
+AMUL081,2025-10-17,Social Awareness,Amul Milk,Breaking news,Instagram,Wordplay,Households,14.8,647666,20805,3154,5889,29848,4.61,67.1,4.8,Oct,10,Yes,Yes
+AMUL082,2025-10-17,Sports & Cricket,Amul Milk,Scheduled event,Instagram,Wordplay,Sports fans,6.6,612807,32128,5915,7355,45398,7.41,77.7,4.2,Oct,10,Yes,Yes
+AMUL083,2025-10-18,Festivals & Seasons,Amul Butter,Seasonal,Outdoor hoarding,Mascot reaction,Families,33.1,1558660,12939,3264,2169,18372,1.18,78.6,4.3,Oct,10,Yes,Yes
+AMUL084,2025-10-20,Social Awareness,Amul Cheese,Breaking news,Print,Wordplay,Households,27.3,505914,3041,943,815,4799,0.95,68.8,4.3,Oct,10,Yes,Yes
+AMUL085,2025-10-26,Food & Everyday Life,Amul Ghee,Evergreen,Outdoor hoarding,Rhyme,Households,86.1,1243637,7640,2095,2395,12130,0.98,71.3,4.1,Oct,10,Yes,Yes
+AMUL086,2025-11-02,Bollywood & Celebrity,Amul Butter,Breaking news,Instagram,Caricature,Film fans,20.4,722146,33145,11157,1990,46292,6.41,72.3,3.5,Nov,11,Yes,Yes
+AMUL087,2025-11-08,Bollywood & Celebrity,Amul Cheese,Breaking news,Instagram,Caricature,Film fans,5.6,918384,42078,8418,9219,59715,6.5,79.6,4.3,Nov,11,Yes,Yes
+AMUL088,2025-11-14,Global Events,Amul Butter,Breaking news,Print,Wordplay,News readers,16.2,826724,4689,1193,1602,7484,0.91,83.2,5.0,Nov,11,Yes,Yes
+AMUL089,2025-11-16,Food & Everyday Life,Amul Butter,Evergreen,Instagram,Pun on product,Households,25.8,452429,12829,2353,5181,20363,4.5,76.1,3.8,Nov,11,Yes,Yes
+AMUL090,2025-11-17,Festivals & Seasons,Amul Chocolate,Seasonal,Instagram,Rhyme,Families,18.9,618827,16162,4876,4103,25141,4.06,78.6,4.9,Nov,11,Yes,Yes
+AMUL091,2025-11-17,Science & Space,Amul Milk,Breaking news,Print,Caricature,Students,10.4,505049,2663,523,910,4096,0.81,72.5,3.8,Nov,11,Yes,Yes
+AMUL092,2025-11-17,Social Awareness,Amul Butter,Breaking news,Instagram,Wordplay,Households,6.1,636380,23320,5350,5417,34087,5.36,71.9,4.0,Nov,11,Yes,Yes
+AMUL093,2025-11-22,Sports & Cricket,Amul Butter,Scheduled event,Instagram,Mascot reaction,Sports fans,11.9,366293,15330,3735,5494,24559,6.7,69.1,4.0,Nov,11,Yes,Yes
+AMUL094,2025-11-22,Sports & Cricket,Amul Chocolate,Scheduled event,X / Twitter,Wordplay,Sports fans,6.2,435281,17064,2709,5868,25641,5.89,85.6,4.3,Nov,11,Yes,Yes
+AMUL095,2025-11-24,Bollywood & Celebrity,Amul Ghee,Breaking news,Outdoor hoarding,Pun on film title,Film fans,23.0,883030,8626,2999,799,12424,1.41,74.6,5.0,Nov,11,Yes,Yes
+AMUL096,2025-11-28,Bollywood & Celebrity,Amul Butter,Breaking news,Instagram,Caricature,Film fans,13.5,410811,15515,4812,4403,24730,6.02,81.7,3.9,Nov,11,Yes,Yes
+AMUL097,2025-12-06,Festivals & Seasons,Amul Butter,Seasonal,Instagram,Mascot reaction,Families,36.4,522237,17514,3365,4301,25180,4.82,74.1,4.2,Dec,12,Yes,Yes
+AMUL098,2025-12-20,Social Awareness,Amul Ice Cream,Breaking news,X / Twitter,Mascot reaction,Households,29.6,767140,21023,3840,4638,29501,3.85,70.9,4.1,Dec,12,Yes,Yes
+AMUL099,2025-12-23,Festivals & Seasons,Amul Milk,Seasonal,Instagram,Mascot reaction,Families,12.7,494818,12035,2628,3261,17924,3.62,75.3,4.2,Dec,12,Yes,Yes
+AMUL100,2025-12-23,Festivals & Seasons,Amul Ice Cream,Seasonal,Print,Rhyme,Families,15.9,588335,3693,925,636,5254,0.89,72.2,4.6,Dec,12,Yes,Yes

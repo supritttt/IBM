@@ -93,3 +93,5 @@ ad_id, release_date, topic_category, product, trigger_type, medium, creative_sty
 - Do faster responses to events earn more engagement?
 - Which creative style (wordplay, film-title pun, rhyme, caricature) works best?
 - Which audiences engage most, and how does engagement move through the year?
+
+G-DRIVE LINK: https://drive.google.com/file/d/1MwXiBevVEdvfrXMKFwdbp4IjivCe6q0T/view?usp=sharing

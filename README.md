@@ -5,6 +5,8 @@ Class project **Market Campaign Comparisons**: an analysis of Amul's topical adv
 The repo has a dataset of 100 Amul ads and a 3-page interactive Power BI dashboard built on it.
 
 **Download link (Google Drive): https://drive.google.com/file/d/1gMc3JBj2UnqM9_gIRdZxK054fqkleG1R/view?usp=sharing
+PPT: https://docs.google.com/presentation/d/1kO1wY_GcotvjTIB5pUjuVCBv2mTKTNSe/edit?usp=sharing&ouid=104760735669623725929&rtpof=true&sd=true
+REPORT:https://drive.google.com/file/d/1tIBmVIHFF-X_aVWLx_cESCUZaWRi-H1D/view?usp=sharing
 
 ## Dashboard preview
 
